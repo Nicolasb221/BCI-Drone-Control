@@ -1,5 +1,6 @@
 # BCI Drone Control: Diseño e implementación de una Interfaz Cerebro-computadora para el movimiento de un Dron
 Pontificia Universidad Javeriana. Tesis de Pregrado, Ingeniería Electrónica.
+Fecha de entrega: 25/11/2022
 
 Realizada por:
 
